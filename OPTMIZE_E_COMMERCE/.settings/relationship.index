@@ -1,0 +1,20 @@
+[ {
+  "baseItem" : {
+    "id" : "_Gui1UNc9Ee-rY-167GqBfg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ihQSANdjEe-rY-167GqBfg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_q2fsMNdDEe-rY-167GqBfg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_q2fsMNdDEe-rY-167GqBfg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

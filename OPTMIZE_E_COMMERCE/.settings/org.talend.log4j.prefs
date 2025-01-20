@@ -1,0 +1,6 @@
+commonLoging/commonLoging=org.apache.commons.logging.Log\=org.apache.commons.logging.impl.Log4JLogger
+eclipse.preferences.version=1
+isNewProject/isNewProject=true
+log4jContent/log4jContent=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<Configuration >  \r\n    <Appenders>  \r\n        <Console name\="Console" target\="SYSTEM_OUT">  \r\n            <PatternLayout pattern\="[%-5level] %d{HH\:mm\:ss} %logger{36}- %msg%n" />\r\n        </Console>  \r\n    </Appenders>  \r\n    \r\n    <Loggers>  \r\n        <Root level\="WARN">\r\n            <AppenderRef ref\="Console" />  \r\n        </Root>  \r\n    </Loggers>  \r\n</Configuration>
+log4jEnabled/log4jEnabled=false
+log4jVersion2/log4jVersion2=true
