@@ -1,0 +1,32 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_4=>" expression="Math.abs(row12.idSales%1000)">
+  <variables name="row12.idShipp" value="0" talendType="id_Integer"/>
+  <variables name="row12.Date" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row12.ProductName" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.ProductCategory" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.ProductSubCategory" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.ProductPrice" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.CustomerName" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.CustomerEmail" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.CustomerAddress" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.CustomerPhone" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.CustomerSegment" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.SupplierName" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.SupplierLocation" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.SupplierContact" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.ShipperName" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.ShippingMethod" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.QuantitySold" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.TotalAmount" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.DiscountAmount" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row12.NetAmount" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row12.StockReceived" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row12.StockSold" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row12.StockOnHand" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row12.PrdID" value="0" talendType="id_Integer"/>
+  <variables name="row12.CusID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row12.SupID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row12.idSales" value="0" talendType="id_Integer"/>
+  <variables name="row12.iddate" value="0" talendType="id_Integer"/>
+  <variables name="Numeric.sequence(&quot;s1&quot;,1,5010) " value="0" talendType="id_Integer"/>
+</expression:EMFExpression>
